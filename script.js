@@ -1,52 +1,52 @@
 const foods = [
   {
     name: "Christian",
-    image: "images/Christian.jpeg",
+    image: "Images/Christian.jpeg",
     message: "Classic choice. No one is shocked.",
   },
   {
     name: "MaKenzie",
-    image: "images/MaKenzie.jpeg",
+    image: "Images/MaKenzie.jpeg",
     message: "The website has excellent taste today.",
   },
   {
     name: "John 🍔",
-    image: "images/John.jpeg",
+    image: "Images/John.jpeg",
     message: "A strong and respectable decision.",
   },
   {
     name: "Ellie",
-    image: "images/Ellie.jpg",
+    image: "Images/Ellie.jpg",
     message: "Fancy, but not too fancy.",
   },
   {
     name: "Ezra",
-    image: "images/Ezra.jpg",
+    image: "Images/Ezra.jpg",
     message: "Carbs have entered the chat.",
   },
   {
     name: "Jim",
-    image: "images/Jim.jpeg",
+    image: "Images/Jim.jpeg",
     message: "Messy, but worth it.",
   },
   {
     name: "Dayana",
-    image: "images/Dayana.jpg",
+    image: "Images/Dayana.jpg",
     message: "A strong and respectable decision.",
   },
   {
     name: "Bo",
-    image: "images/Bo.jpeg",
+    image: "Images/Bo.jpeg",
     message: "Fancy, but not too fancy.",
   },
   {
     name: "Russ",
-    image: "images/Russ.jpg",
+    image: "Images/Russ.jpg",
     message: "Carbs have entered the chat.",
   },
   {
     name: "Tara",
-    image: "images/Tara.jpeg",
+    image: "Images/Tara.jpeg",
     message: "Messy, but worth it.",
   },
 
