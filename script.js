@@ -2,57 +2,53 @@ const foods = [
   {
     name: "Christian",
     image: "Images/Christian.jpeg",
-    message: "Classic choice. No one is shocked.",
+    message: "Obviously the best choice.",
   },
   {
     name: "MaKenzie",
     image: "Images/MaKenzie.jpeg",
-    message: "The website has excellent taste today.",
+    message: "Readng the menu is optional when you already know the answer.",
   },
   {
     name: "John 🍔",
     image: "Images/John.jpeg",
-    message: "A strong and respectable decision.",
+    message: "The app must be feeling generous.",
   },
   {
     name: "Ellie",
     image: "Images/Ellie.jpg",
-    message: "Fancy, but not too fancy.",
+    message: "Indoor voice not found.",
   },
   {
     name: "Ezra",
     image: "Images/Ezra.jpg",
-    message: "Carbs have entered the chat.",
+    message: "Aura farming in progress.",
   },
   {
     name: "Jim",
     image: "Images/Jim.jpeg",
-    message: "Messy, but worth it.",
+    message: "Already has three ideas to improve this app.",
   },
   {
     name: "Dayana",
-    image: "Images/Dayana.jpg",
-    message: "A strong and respectable decision.",
+    image: "Images/Dayana.jpeg",
+    message: "Married John still recovering.",
   },
   {
     name: "Bo",
     image: "Images/Bo.jpeg",
-    message: "Fancy, but not too fancy.",
+    message: "Her calender is stressed.",
   },
   {
     name: "Russ",
     image: "Images/Russ.jpg",
-    message: "Carbs have entered the chat.",
+    message: "Benchpress first questions later.",
   },
   {
     name: "Tara",
     image: "Images/Tara.jpeg",
-    message: "Messy, but worth it.",
+    message: "Hide your plastic.",
   },
-
-
-
-
 ];
  
 const pickButton = document.getElementById("pickButton");
@@ -96,5 +92,4 @@ pickButton.addEventListener("click", function () {
     pickButton.textContent = "Pick for me";
   }, 3000);
 });
- 
  
