@@ -42,7 +42,7 @@ const foods = [
   {
     name: "Russ",
     image: "Images/Russ.jpg",
-    message: "Benchpress first questions later.",
+    message: "Push-ups first questions later.",
   },
   {
     name: "Tara",
